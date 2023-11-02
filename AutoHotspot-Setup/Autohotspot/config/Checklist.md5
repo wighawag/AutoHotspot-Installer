@@ -11,7 +11,7 @@ bb7fd111c1baa11fdee18699041a2516  ./autohotspot-Net.service
 807885886aa6a40f30d4c9d480b80c84  ./dnsmasqAHSN.conf
 25e3152c11d0860428bcb51b25e33441  ./dnsmasqSHS.conf
 50d80f635b02b8ce58bfa8f260eba7e7  ./hostapd
-0d495cabd4ce6d63e0eea040cc435540  ./hostapd.conf
+0debea00bf8b2c1552393a067dc0cac1  ./hostapd.conf
 d0f09b7f89ef821edaef58e7b91b313a  ./hs-iptables.service
 c82e7473bb1490cf4702aaf7b669bb33  ./interfaces
 fbb31822a27f4acca55acdb8f52d538c  ./iptables-hs.txt
